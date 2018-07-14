@@ -30,4 +30,5 @@ As such, it is assumed that the main [Julia documentation](https://docs.julialan
 That said, much of what's in this wiki is taken from the following resources:
 
 * Julia documentation [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1)
+* Julia [package index](https://pkg.julialang.org/)
 * QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
