@@ -146,6 +146,7 @@ Related: [Julia REPL](https://docs.julialang.org/en/latest/stdlib/REPL/)
 * [[swapbytes]] Swap byte ordering
 
 ## Data Types
+See [Types](https://docs.julialang.org/en/latest/manual/types/) in the Julia manual.
 
 ### Numeric Types
 * [[double]] Double-precision arrays
