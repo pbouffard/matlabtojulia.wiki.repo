@@ -5,7 +5,7 @@ This page maps MATLAB functionality documented in the [Language Fundamentals](ht
 ## Entering Commands
 * [[ans]] Most recent answer
 * [[clc]] Clear Command Window
-* [[Save]] Command Window text to file
+* [[save]] Command Window text to file
 * [[format]] Set Command Window output display format
 * [[home]] Send cursor home
 * [[iskeyword]] Determine whether input is MATLAB keyword
