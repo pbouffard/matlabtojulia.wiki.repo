@@ -41,4 +41,8 @@ You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pag
 In the search results page, click the Wikis link to display search hits from the wiki.
 
 ## Contributing
-Contributions are encouraged! The repo settings have the "Restrict editing to collaborators only" option turned off so that it should be possible to simply edit the wiki, though GitHub requires you to be (signed in)[https://github.com/login?return_to=%2Fpbouffard%2Fmatlabtojulia%2Fwiki] so that anonymous edits are not possible.
+Contributions are encouraged! The repo settings have the "Restrict editing to collaborators only" option turned off so that it should be possible to simply edit the wiki, though GitHub requires you to be [signed in](https://github.com/login?return_to=%2Fpbouffard%2Fmatlabtojulia%2Fwiki) so that anonymous edits are not possible. 
+
+Please include an edit message in cases where the explanation of the change isn't obvious.
+
+Unfortunately GitHub [doesn't support](https://github.com/gollum/gollum/issues/265) pull requests into wikis so PRs for bulk (or any) edits are not possible, however a suggested workflow if you have a bulk edit to contribute is to submit an [issue](https://github.com/pbouffard/matlabtojulia/issues) where the best way to bring in such an edit can be discussed.
