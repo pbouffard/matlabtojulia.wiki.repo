@@ -170,12 +170,10 @@ See [Types](https://docs.julialang.org/en/latest/manual/types/) in the Julia man
 * [[isnan]] Array elements that are NaN
 * [[eps]] Floating-point relative accuracy
 * [[flintmax]] Largest consecutive integer in floating-point format
-
-### Inf Infinity
+* [[Inf]] Infinity
 * [[intmax]] Largest value of specified integer type
 * [[intmin]] Smallest value of specified integer type
-
-### NaN Not-a-Number
+* [[NaN]] Not-a-Number
 * [[realmax]] Largest positive floating-point number
 * [[realmin]] Smallest positive normalized floating-point number
 
