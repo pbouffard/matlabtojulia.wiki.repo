@@ -7,7 +7,7 @@ This page maps MATLAB functionality documented in the [Language Fundamentals](ht
 * [[clc]] Clear Command Window
 * [[save]] Command Window text to file
 * [[format]] Set Command Window output display format
-* [[home (matlab)]] Send cursor home
+* [[home]] Send cursor home
 * [[iskeyword]] Determine whether input is MATLAB keyword
 * [[more]] Control paged output for Command Window
 
