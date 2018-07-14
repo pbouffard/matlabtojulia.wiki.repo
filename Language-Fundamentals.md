@@ -2,7 +2,7 @@
 
 This page maps MATLAB functionality documented in the [Language Fundamentals](https://www.mathworks.com/help/matlab/language-fundamentals.html) section of the MATLAB documentation to equivalent Julia (core language and/or package) functionality.
 
-As a reminder, is recommended to read the [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1) section of the Julia documentation.
+Remember that it is recommended to read the [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1) section of the Julia documentation.
 
 ## Entering Commands
 Related: [Julia REPL](https://docs.julialang.org/en/latest/stdlib/REPL/)
