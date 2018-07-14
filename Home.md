@@ -19,5 +19,15 @@ The most recent MATLAB documentation (currently R2018a) is implied as the 'sourc
 In general when equivalent Julia 1.0 (i.e. [0.7 without deprecation warnings](https://discourse.julialang.org/t/what-is-julia-0-7-how-does-it-relate-to-1-0/9994)) functionality exists this is what will be linked to, but in cases where this does not exist but an earlier version, e.g. 0.6, has the functionality the latter will be linked to.
 
 ## Related Resources
+In general the intent is to capture the information itself in this wiki, for the same reasons as this is [encouraged on StackOverflow](https://stackoverflow.com/help/how-to-answer):
+
+> **Provide context for links**
+>
+> Links to external resources are encouraged, but please add context around the link so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline.
+
+As such, it is assumed that the main [Julia documentation](https://docs.julialang.org) isn't at risk of going offline, but the salient points from other sources should in general be included in this wiki so it is largely self-contained (and thus is itself suitable for offline use). Of course, attribution by means of links to sources of information is highly encouraged.
+
+That said, much of what's in this wiki is taken from the following resources:
+
 * Julia documentation [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1)
-* [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
+* QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
