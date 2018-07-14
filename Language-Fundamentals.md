@@ -241,8 +241,7 @@ See [Types](https://docs.julialang.org/en/latest/manual/types/) in the Julia man
 
 ### Dates and Time
 * [[datetime]] Arrays that represent points in time
-
-### NaT Not-a-Time
+* [[NaT]] Not-a-Time
 * [[years]] Duration in years
 * [[days]] Duration in days
 * [[hours]] Duration in hours
