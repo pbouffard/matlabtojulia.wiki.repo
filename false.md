@@ -1,4 +1,4 @@
-# `false` Logical 1 (true)
+# `false` Logical 0 (false)
 
 Basically identical in Julia. See [Types](https://docs.julialang.org/en/latest/manual/types/).
 
