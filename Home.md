@@ -9,6 +9,14 @@ The organization mirrors that of the MATLAB product line; that is, the core MATL
 
 Of course, implicitly one can use the content of the wiki to map concepts in the other direction but the focus is on migration from MATLAB to Julia.
 
+## Versions
+The most recent MATLAB documentation (currently R2018a) is implied as the 'source' of the mapping in functionality unless otherwise specified. Note that only the most recent MATLAB documentation is available on the MathWorks' website without a login; [previous releases' documentation](https://www.mathworks.com/help/doc-archives.html) requires a login.
+
+In general when equivalent Julia 1.0 (i.e. [0.7 without deprecation warnings](https://discourse.julialang.org/t/what-is-julia-0-7-how-does-it-relate-to-1-0/9994)) functionality exists this is what will be linked to, but in cases where this does not exist but an earlier version, e.g. 0.6, has the functionality the latter will be linked to.
+
+## Related Resources
+* Julia documentation [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1)
+
 The following index is based on the MATLAB Product Family section of the MathWorks® [Product Family](https://www.mathworks.com/products.html) page:
 
 ## [[MATLAB]]
