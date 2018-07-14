@@ -4,4 +4,4 @@
 
 ***
 
-Back to (Matrices and Arrays)[https://github.com/pbouffard/matlabtojulia/wiki/Language-Fundamentals#matrices-and-arrays]
+Back to [Matrices and Arrays](https://github.com/pbouffard/matlabtojulia/wiki/Language-Fundamentals#matrices-and-arrays)
