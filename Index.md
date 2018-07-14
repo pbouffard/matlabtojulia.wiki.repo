@@ -1,6 +1,6 @@
 The following index is based on the MATLAB Product Family section of the MathWorks® [Product Family](https://www.mathworks.com/products.html) page:
 
-## [[MATLAB]] Core Language
+## [MATLAB Core Language](MATLAB-core-language)
 Functionality available in all MATLAB installations, i.e. not requiring any of the below toolboxes.
 
 ## Parallel Computing
