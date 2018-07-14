@@ -46,3 +46,8 @@ Contributions are encouraged! The repo settings have the "Restrict editing to co
 Please include an edit message in cases where the explanation of the change isn't obvious.
 
 Unfortunately GitHub [doesn't support](https://github.com/gollum/gollum/issues/265) pull requests into wikis so PRs for bulk (or any) edits are not possible, however a suggested workflow if you have a bulk edit to contribute is to submit an [issue](https://github.com/pbouffard/matlabtojulia/issues) where the best way to bring in such an edit can be discussed.
+
+## License
+Creative Commons Attribution-ShareAlike 4.0 International Public License.
+
+See [LICENSE.md](https://github.com/pbouffard/matlabtojulia/blob/master/LICENSE.md).
