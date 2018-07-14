@@ -67,6 +67,7 @@ Related: [Julia REPL](https://docs.julialang.org/en/latest/stdlib/REPL/)
 * [[sub2ind]] Convert subscripts to linear indices
 
 ## Operators and Elementary Operations
+See [Mathematical Operations and Elementary Functions](https://docs.julialang.org/en/latest/manual/mathematical-operations/) in the Julia manual.
 
 ### Arithmetic
 * [[plus]] Addition
