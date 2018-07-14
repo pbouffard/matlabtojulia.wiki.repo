@@ -34,7 +34,7 @@ That said, much of what's in this wiki is taken from the following resources:
 * QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
 
 ## Searching
-You can search this wiki by using the main GitHub search bar and specifying the repo, e.g.:
+You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pages/) by using the main GitHub search bar and specifying the repo, e.g.:
 
 `repo:pbouffard/matlabtojulia clc`
 
