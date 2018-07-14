@@ -32,3 +32,10 @@ That said, much of what's in this wiki is taken from the following resources:
 * Julia documentation [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1)
 * Julia [package index](https://pkg.julialang.org/)
 * QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
+
+## Searching
+You can search this wiki by using the main GitHub search bar and specifying the repo, e.g.:
+
+`repo:pbouffard/matlabtojulia clc`
+
+In the search results page, click the Wikis link to display search hits from the wiki.
