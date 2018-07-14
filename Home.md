@@ -39,3 +39,6 @@ You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pag
 `repo:pbouffard/matlabtojulia clc`
 
 In the search results page, click the Wikis link to display search hits from the wiki.
+
+## Contributing
+Contributions are encouraged! The repo settings have the "Restrict editing to collaborators only" option turned off so that it should be possible to simply edit the wiki, though GitHub requires you to be (signed in)[https://github.com/login?return_to=%2Fpbouffard%2Fmatlabtojulia%2Fwiki] so that anonymous edits are not possible.
