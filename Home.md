@@ -13,6 +13,15 @@ The organization mirrors that of the MATLAB product line; that is, the core MATL
 
 Of course, implicitly one can use the content of the wiki to map concepts in the other direction but the focus is on migration from MATLAB to Julia.
 
+## Searching
+The easiest way to search the wiki if what you are looking for is what in Julia corresponds to a particular MATLAB keyword or function name is to use the "Find a page" box, which is shown if you expand the "Pages" button which is found in the upper-right corner when viewing a GitHub wiki page.
+
+Alternatively, you can also perform a [full-text search in a GitHub wiki](https://blog.github.com/2016-08-08-search-wiki-pages/) by using the main GitHub search bar and specifying the repo, e.g.:
+
+`repo:pbouffard/matlabtojulia clc`
+
+In the search results page, click the Wikis link to display search hits from the wiki.
+
 ## Versions
 The most recent MATLAB documentation (currently R2018a) is implied as the 'source' of the mapping in functionality unless otherwise specified. Note that only the most recent MATLAB documentation is available on the MathWorks' website without a login; [previous releases' documentation](https://www.mathworks.com/help/doc-archives.html) requires a login.
 
@@ -25,13 +34,6 @@ In general when equivalent Julia 1.0 (i.e. [0.7 without deprecation warnings](ht
 * QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
 * Automatic [MATLAB to Julia converter](http://sciencecow.mit.edu/matlab-to-julia/) (limited in its usefulness, especially for functions in toolboxes)
 * Package for calling MATLAB in Julia through MATLAB Engine: [MATLAB.jl](https://github.com/JuliaInterop/MATLAB.jl)
-
-## Searching
-You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pages/) by using the main GitHub search bar and specifying the repo, e.g.:
-
-`repo:pbouffard/matlabtojulia clc`
-
-In the search results page, click the Wikis link to display search hits from the wiki.
 
 ## Contributing
 
