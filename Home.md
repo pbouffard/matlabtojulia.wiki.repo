@@ -19,20 +19,12 @@ The most recent MATLAB documentation (currently R2018a) is implied as the 'sourc
 In general when equivalent Julia 1.0 (i.e. [0.7 without deprecation warnings](https://discourse.julialang.org/t/what-is-julia-0-7-how-does-it-relate-to-1-0/9994)) functionality exists this is what will be linked to, but in cases where this does not exist but an earlier version, e.g. 0.6, has the functionality the latter will be linked to.
 
 ## Related Resources
-In general the intent is to capture the information itself in this wiki, for the same reasons as this is [encouraged on StackOverflow](https://stackoverflow.com/help/how-to-answer):
-
-> **Provide context for links**
->
-> Links to external resources are encouraged, but please add context around the link so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline.
-
-As such, it is assumed that the main [Julia documentation](https://docs.julialang.org) isn't at risk of going offline, but the salient points from other sources should in general be included in this wiki so it is largely self-contained (and thus is itself suitable for offline use). Of course, attribution by means of links to sources of information is highly encouraged.
-
-That said, much of what's in this wiki is taken from the following resources:
 
 * Julia documentation [noteworthy differences from MATLAB](https://docs.julialang.org/en/latest/manual/noteworthy-differences/#Noteworthy-differences-from-MATLAB-1)
 * Julia [package index](https://pkg.julialang.org/)
 * QuantEcon [MATLAB - Python - Julia Cheatsheet](https://cheatsheets.quantecon.org/)
 * Automatic [MATLAB to Julia converter](http://sciencecow.mit.edu/matlab-to-julia/) (limited in its usefulness, especially for functions in toolboxes)
+* Package for calling MATLAB in Julia through MATLAB Engine: [MATLAB.jl](https://github.com/JuliaInterop/MATLAB.jl)
 
 ## Searching
 You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pages/) by using the main GitHub search bar and specifying the repo, e.g.:
@@ -42,11 +34,23 @@ You can [search GitHub wikis](https://blog.github.com/2016-08-08-search-wiki-pag
 In the search results page, click the Wikis link to display search hits from the wiki.
 
 ## Contributing
+
+### How to contribute
 Contributions are encouraged! The repo settings have the "Restrict editing to collaborators only" option turned off so that it should be possible to simply edit the wiki, though GitHub requires you to be [signed in](https://github.com/login?return_to=%2Fpbouffard%2Fmatlabtojulia%2Fwiki) so that anonymous edits are not possible. 
 
 Please include an edit message in cases where the explanation of the change isn't obvious.
 
 Unfortunately GitHub [doesn't support](https://github.com/gollum/gollum/issues/265) pull requests into wikis so PRs for bulk (or any) edits are not possible, however a suggested workflow if you have a bulk edit to contribute is to submit an [issue](https://github.com/pbouffard/matlabtojulia/issues) where the best way to bring in such an edit can be discussed.
+
+### Links
+In general the intent is to capture the information itself in this wiki, for the same reasons as this is [encouraged on StackOverflow](https://stackoverflow.com/help/how-to-answer):
+
+> **Provide context for links**
+>
+> Links to external resources are encouraged, but please add context around the link so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline.
+
+As such, it is assumed that the main [Julia documentation](https://docs.julialang.org) isn't at risk of going offline, but the salient points from other sources should in general be included in this wiki so it is largely self-contained (and thus is itself suitable for offline use). Of course, attribution by means of links to sources of information is highly encouraged.
+
 
 ## License
 Creative Commons Attribution-ShareAlike 4.0 International Public License.
