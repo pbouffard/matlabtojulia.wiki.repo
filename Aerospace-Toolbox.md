@@ -15,7 +15,6 @@ Related Julia packages:
 * [[dcm2angle]] Create rotation angles from direction cosine matrix
 * [[rod2angle]] Convert Euler-Rodrigues vector to rotation angles
 * [[quat2angle]] Convert quaternion to rotation angles
-* [[angle2dcm]] Convert rotation angles to direction cosine matrix
 * [[dcm2alphabeta]] Convert direction cosine matrix to angle of attack and sideslip angle
 * [[dcm2latlon]] Convert direction cosine matrix to geodetic latitude and longitude
 * [[dcm2quat]] Convert direction cosine matrix to quaternion
