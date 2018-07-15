@@ -14,7 +14,7 @@ The organization mirrors that of the MATLAB product line; that is, the core MATL
 Of course, implicitly one can use the content of the wiki to map concepts in the other direction but the focus is on migration from MATLAB to Julia.
 
 ## Searching
-The easiest way to search the wiki if what you are looking for is what in Julia corresponds to a particular MATLAB keyword or function name is to use the "Find a page" box, which is shown if you expand the "Pages" button which is found in the upper-right corner when viewing a GitHub wiki page.
+The easiest way to search the wiki if what you are looking for is what in Julia corresponds to a particular MATLAB keyword or function name is to use the "Find a page" box, which is shown if you expand the "Pages" button which is found in the upper-right corner when viewing a GitHub wiki page. Generally a keyword/function's page is only created when it has content, so if you get no search results for a keyword/function name then this means that there isn't an entry for what you are looking for yet. If you later find the answers elsewhere consider returning to the wiki and [contributing](#Contributing) what you found.
 
 Alternatively, you can also perform a [full-text search in a GitHub wiki](https://blog.github.com/2016-08-08-search-wiki-pages/) by using the main GitHub search bar and specifying the repo, e.g.:
 
